@@ -1,4 +1,4 @@
-# RedME
+# ReadME
 # 💫 About Me:
 Estou em aprendizado e ainda descobrindo qual area trabalhar.
 
